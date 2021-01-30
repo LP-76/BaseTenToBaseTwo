@@ -1,4 +1,4 @@
-# BaseTenToBaseTwo
+# Base Ten To Base Two
 CS 417: Machine Assignment 1
 
 Program takes in command-line arguments and converts them from base ten to base two.
